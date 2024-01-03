@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <keyboard>Off</keyboard>
+  <fontsizefboard>13</fontsizefboard>
+	<iscoloron>On</iscoloron>
+	<sidebar>Off</sidebar>
+	<calbackground>purple</calbackground>
+	<language>En</language>
+	<unit>rad</unit>
+</settings>
