@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncMatic", "KakeXcalculator\FuncMatic.csproj", "{134DE062-2B23-4CAA-84C3-732EBA2EAE6D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "FuncMatic_Setup\FuncMatic_Setup.vdproj", "{21CCDD16-371F-4893-87F7-D7800AF34497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134DE062-2B23-4CAA-84C3-732EBA2EAE6D}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{134DE062-2B23-4CAA-84C3-732EBA2EAE6D}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{134DE062-2B23-4CAA-84C3-732EBA2EAE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134DE062-2B23-4CAA-84C3-732EBA2EAE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CCDD16-371F-4893-87F7-D7800AF34497}.Debug|Any CPU.ActiveCfg = Release
+		{21CCDD16-371F-4893-87F7-D7800AF34497}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FEFBCA4-7E14-4483-95F6-84B2898CFCB2}
+	EndGlobalSection
+EndGlobal
